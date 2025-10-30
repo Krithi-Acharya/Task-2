@@ -6,5 +6,4 @@ NNM24IS109
 
 
 
-<img width="581" height="143" alt="image" src="https://github.com/user-attachments/assets/9dae7058-8cf5-4763-8cb7-8bee525631ab" />
-
+<img width="760" height="219" alt="image" src="https://github.com/user-attachments/assets/d1451d9f-ccbb-4f09-b489-2dc5b0a3bd9f" />
